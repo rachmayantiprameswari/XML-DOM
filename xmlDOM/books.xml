@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <bookstore>
+
+        <book category="cooking">
+            <tittle lang="en">Everyday Italian</tittle>
+            <author>Giada De Laurentiis</author>
+            <year>2005</year>
+            <price>30.00</price>
+        </book>
+
+        <book category="Children">
+        	<tittle lang="en">Harry Potter and the Half-Blood Prince</tittle>
+        	<author>J. K. Rowling</author>
+        	<year>2005</year>
+        	<price>29.99</price>
+        </book>
+
+        <book category="Web">
+        	<tittle lang="en">Learning XML</tittle>
+        	<author>Erik T. Ray</author>
+        	<year>2003</year>
+        	<price>39.95</price>
+        </book>
+
+    </bookstore>
